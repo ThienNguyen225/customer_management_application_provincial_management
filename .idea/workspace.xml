@@ -1,0 +1,856 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9a18483f-dfd8-49dd-80d2-becebdfd73b4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/php-module2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../book _management/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../book _management/view/list.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson1/application-to-read-numbers-into-words/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson1/calculator-application/.idea/calculator-application.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson1/calculator-application/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson1/calculator-application/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson1/calculator-application/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson1/calculator-application/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson1/currency-conversion-application/.idea/currency-conversion-application.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson1/currency-conversion-application/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson1/currency-conversion-application/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson1/currency-conversion-application/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson1/currency-conversion-application/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson1/display-arbitrary-number-of-first-prime-numbers/.idea/display-arbitrary-number-of-first-prime-numbers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson1/display-arbitrary-number-of-first-prime-numbers/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson1/display-arbitrary-number-of-first-prime-numbers/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson1/display-arbitrary-number-of-first-prime-numbers/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson1/display-arbitrary-number-of-first-prime-numbers/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson1/future-value-calculator-application/.idea/future-value-calculator-application.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson1/future-value-calculator-application/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson1/future-value-calculator-application/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson1/future-value-calculator-application/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson1/future-value-calculator-application/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson1/product-discount-calculator-application/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson1/product-discount-calculator-application/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson1/product-discount-calculator-application/.idea/product-discount-calculator-application.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson1/product-discount-calculator-application/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson1/product-discount-calculator-application/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson12/customer-management-application/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson12/customer-management-application/model/Customer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson12/customer-management-application/view/edit.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson12/product_management _application/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson12/product_management _application/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson12/product_management _application/.idea/product_management _application.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson12/product_management _application/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson12/product_management _application/view/delete.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson13/create_a_login_page_and_display_the_greeting/resources/views/login.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson13/simple_dictionary_application_laravel/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson13/simple_dictionary_application_laravel/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson13/simple_dictionary_application_laravel/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson13/simple_dictionary_application_laravel/.idea/simple_dictionary_application_laravel.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson13/simple_dictionary_application_laravel/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson16/create_layout_with_blade/resources/views/show.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson17/use_eloquent_customer_management_application/resources/views/customer/edit.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson17/use_eloquent_customer_management_application/resources/views/customer/show.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson17/use_eloquent_in_task_application/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson17/use_eloquent_in_task_application/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson17/use_eloquent_in_task_application/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson17/use_eloquent_in_task_application/.idea/use_eloquent_in_task_application.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson17/use_eloquent_in_task_application/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson2/combine-array/.idea/combine-array.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson2/combine-array/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson2/combine-array/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson2/combine-array/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson2/combine-array/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson2/count-the-number-of-occurrences-of-characters-in-the-string/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson2/create-a-layout-for-the-website/content.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson2/create-a-layout-for-the-website/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson2/create-a-layout-for-the-website/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson2/create-a-layout-for-the-website/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson2/delete-part-from-array/.idea/delete-part-from-array.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson2/delete-part-from-array/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson2/delete-part-from-array/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson2/delete-part-from-array/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson2/delete-part-from-array/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson2/display-a-message-if-the-user-enters-an-invalid-index/.idea/display-a-message-if-the-user-enters-an-invalid-index.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson2/display-a-message-if-the-user-enters-an-invalid-index/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson2/display-a-message-if-the-user-enters-an-invalid-index/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson2/display-a-message-if-the-user-enters-an-invalid-index/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson2/display-a-message-if-the-user-enters-an-invalid-index/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson2/displays-a-message-if-the-user-enters-an-invalid-number/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson2/filter-customer-list/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson2/find-the-largest-element-in-the-two-dimensional-array/.idea/find-the-largest-element-in-the-two-dimensional-array.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson2/find-the-largest-element-in-the-two-dimensional-array/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson2/find-the-largest-element-in-the-two-dimensional-array/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson2/find-the-largest-element-in-the-two-dimensional-array/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson2/find-the-largest-element-in-the-two-dimensional-array/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson2/find-the-smallest-value-in-the-array-using-the-method/.idea/find-the-smallest-value-in-the-array-using-the-method.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson2/find-the-smallest-value-in-the-array-using-the-method/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson2/find-the-smallest-value-in-the-array-using-the-method/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson2/find-the-smallest-value-in-the-array-using-the-method/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson2/find-the-smallest-value-in-the-array-using-the-method/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson2/find-the-smallest-value-of-the-array-from-the-keyboard/.idea/find-the-smallest-value-of-the-array-from-the-keyboard.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson2/find-the-smallest-value-of-the-array-from-the-keyboard/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson2/find-the-smallest-value-of-the-array-from-the-keyboard/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson2/find-the-smallest-value-of-the-array-from-the-keyboard/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson2/find-the-smallest-value-of-the-array-from-the-keyboard/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson2/sum-the-numbers-in-a-given-column/way-two.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson2/sum-the-numbers-in-the-main-diagonal-of-the-square-matrix/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson2/sum-the-numbers-in-the-main-diagonal-of-the-square-matrix/sum-and-print-the-height-and-width.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson2/user-registration-page/data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson2/user-registration-page/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson3/building-a-stopWatch-class/.idea/building-a-stopWatch-class.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson3/building-a-stopWatch-class/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson3/building-a-stopWatch-class/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson3/building-a-stopWatch-class/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson3/building-a-stopWatch-class/StopWatch.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson3/building-a-stopWatch-class/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson3/building-fan-class/Fan.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson3/building-fan-class/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson3/quadratic/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson3/quadratic/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson3/quadratic/.idea/quadratic.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson3/quadratic/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson3/quadratic/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson3/quadratic/quadraticEquation.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson3/rectangle-layer/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson4/circle-class-and-cylinder-class/Cylinder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson4/circle-class-and-cylinder-class/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson4/grade-point-and-moveablePoint/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson4/point2D-class-and-point3D-class/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson4/point2D-class-and-point3D-class/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson4/point2D-class-and-point3D-class/.idea/point2D-class-and-point3D-class.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson4/point2D-class-and-point3D-class/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson4/point2D-class-and-point3D-class/Point2D.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson4/point2D-class-and-point3D-class/Point3D.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson4/point2D-class-and-point3D-class/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson4/practice-system-of-geometric-objects/Circle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson4/practice-system-of-geometric-objects/Cylinder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson4/practice-system-of-geometric-objects/Rectangle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson4/practice-system-of-geometric-objects/Shape.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson4/practice-system-of-geometric-objects/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson4/triangle-class-design-and-implementation/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson5/animal-and-edible-interface-classes/Animals/Chicken.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson5/animal-and-edible-interface-classes/Fruits/Apple.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson5/animal-and-edible-interface-classes/Fruits/Orange.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson5/animal-and-edible-interface-classes/InterfaceClass/Edible.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson5/deploy-the-colorable-interface-for-geometry-classes/Cylinder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson5/deploy-the-colorable-interface-for-geometry-classes/Rectangle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson5/deploy-the-colorable-interface-for-geometry-classes/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson5/implement-the-comparable-interface-for-geometric-classes/Comparable.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson5/implement-the-comparable-interface-for-geometric-classes/ComparableCircle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson5/implement-the-interface-comparator-to-compare-geometry-classes/Comparable.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson5/implement-the-resizeable-interface-for-geometry-classes/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson6/deploy-methods-of-ArrayList/MyList.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson6/deploy-methods-of-ArrayList/MyListTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson6/deploy-simple-LinkedList-class/LinkList.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson6/deploy-simple-list-class/AraayList2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson6/deploy-simple-list-class/ArrayList.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson6/deploy-simple-list-class/arrayListTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson6/deploy-the-methods-of-LinkedList/LinkedList.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson6/deploy-the-methods-of-LinkedList/Node.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson7/refactoring-separating-the-method/Cylinder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson7/refactoring-variable-name-and-constant-separation/calculator-test/CalculatorTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson7/refactoring/TennisGame.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson8/library_manager/.idea/library_manager.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson8/library_manager/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson8/library_manager/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson8/library_manager/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson8/library_manager/DBconnect/DBconnect.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson8/library_manager/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson8/test/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson8/test/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson8/test/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson8/test/.idea/test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson8/test/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/resources/views/customer/list.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1050">
+              <caret line="70" column="57" lean-forward="true" selection-start-line="70" selection-start-column="57" selection-end-line="70" selection-end-column="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/routes/web.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="34" column="77" selection-start-line="34" selection-start-column="61" selection-end-line="34" selection-end-column="77" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/CustomerController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1245">
+              <caret line="86" column="29" selection-start-line="86" selection-start-column="29" selection-end-line="86" selection-end-column="29" />
+              <folding>
+                <element signature="e#40#53#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Customer.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/customer/edit.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="690">
+              <caret line="46" column="26" selection-start-line="46" selection-start-column="26" selection-end-line="46" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/customer/show.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="36" column="69" selection-start-line="36" selection-start-column="69" selection-end-line="36" selection-end-column="69" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/cities/show.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/.env" />
+        <option value="$PROJECT_DIR$/database/migrations/2019_07_02_144300_create_cities_table.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2019_07_02_144745_add_cities_to_customers_table.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2019_07_02_150924_add_cities_to_customers_table.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2019_07_02_151521_create_customers_table.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2019_07_02_151925_add_cities_to_customers_table.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2019_07_02_152924_create_cities_table.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2019_07_02_153045_create_customers_table.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2019_07_02_153453_create_customers_table.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2019_07_02_153501_create_cities_table.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2014_10_12_100000_create_password_resets_table.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2019_07_02_154037_create_customers_table.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2019_07_02_154148_create_cities_table.php" />
+        <option value="$PROJECT_DIR$/database/seeds/CutomersTableSeeder.php" />
+        <option value="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" />
+        <option value="$PROJECT_DIR$/database/seeds/CitiesTableSeeder.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2019_07_02_154353_add_cities_to_customers_table.php" />
+        <option value="$PROJECT_DIR$/resources/views/home.blade.php" />
+        <option value="$PROJECT_DIR$/app/Http/Requests/CityFormRequest.php" />
+        <option value="$PROJECT_DIR$/resources/views/cities/create.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/cities/show.blade.php" />
+        <option value="$PROJECT_DIR$/app/Http/Requests/EditCityRequest.php" />
+        <option value="$PROJECT_DIR$/resources/views/cities/edit.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/cities/delete.blade.php" />
+        <option value="$PROJECT_DIR$/app/City.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/CityController.php" />
+        <option value="$PROJECT_DIR$/resources/views/cities/list.blade.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2019_07_03_141828_add_imge_to_customers_table.php" />
+        <option value="$PROJECT_DIR$/database/seeds/CustomersTableSeeder.php" />
+        <option value="$PROJECT_DIR$/app/Http/Requests/CustomerCreateRequest.php" />
+        <option value="$PROJECT_DIR$/resources/views/customer/show.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/customer/create.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/customer/edit.blade.php" />
+        <option value="$PROJECT_DIR$/routes/web.php" />
+        <option value="$PROJECT_DIR$/resources/views/customer/search.blade.php" />
+        <option value="$PROJECT_DIR$/app/Customer.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/CustomerController.php" />
+        <option value="$PROJECT_DIR$/resources/views/customer/list.blade.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/vendor/fideloper/proxy" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/vendor/jakub-onderka/php-console-highlighter" />
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/vendor/jakub-onderka/php-console-color" />
+      <path value="$PROJECT_DIR$/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-iconv" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/vendor/erusev/parsedown" />
+      <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/vendor/dnoegel/php-xdg-base-dir" />
+      <path value="$PROJECT_DIR$/vendor/nunomaduro/collision" />
+      <path value="$PROJECT_DIR$/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/vendor/beyondcode/laravel-dump-server" />
+      <path value="$PROJECT_DIR$/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/vendor/opis/closure" />
+      <path value="$PROJECT_DIR$/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/vendor/tijsverkoyen/css-to-inline-styles" />
+    </include_path>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/customer_management_application_provincial_management.iml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/php.xml" />
+        <option value="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1280" />
+    <option name="height" value="800" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="customer_management_application_provincial_management" type="b2602c69:ProjectViewProjectNode" />
+              <item name="customer_management_application_provincial_management" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="customer_management_application_provincial_management" type="b2602c69:ProjectViewProjectNode" />
+              <item name="customer_management_application_provincial_management" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="customer_management_application_provincial_management" type="b2602c69:ProjectViewProjectNode" />
+              <item name="customer_management_application_provincial_management" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Http" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="customer_management_application_provincial_management" type="b2602c69:ProjectViewProjectNode" />
+              <item name="customer_management_application_provincial_management" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Http" type="462c0819:PsiDirectoryNode" />
+              <item name="Controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="customer_management_application_provincial_management" type="b2602c69:ProjectViewProjectNode" />
+              <item name="customer_management_application_provincial_management" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Http" type="462c0819:PsiDirectoryNode" />
+              <item name="Requests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="customer_management_application_provincial_management" type="b2602c69:ProjectViewProjectNode" />
+              <item name="customer_management_application_provincial_management" type="462c0819:PsiDirectoryNode" />
+              <item name="database" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="customer_management_application_provincial_management" type="b2602c69:ProjectViewProjectNode" />
+              <item name="customer_management_application_provincial_management" type="462c0819:PsiDirectoryNode" />
+              <item name="database" type="462c0819:PsiDirectoryNode" />
+              <item name="seeds" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="customer_management_application_provincial_management" type="b2602c69:ProjectViewProjectNode" />
+              <item name="customer_management_application_provincial_management" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="customer_management_application_provincial_management" type="b2602c69:ProjectViewProjectNode" />
+              <item name="customer_management_application_provincial_management" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="customer_management_application_provincial_management" type="b2602c69:ProjectViewProjectNode" />
+              <item name="customer_management_application_provincial_management" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="customer_management_application_provincial_management" type="b2602c69:ProjectViewProjectNode" />
+              <item name="customer_management_application_provincial_management" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="cities" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="customer_management_application_provincial_management" type="b2602c69:ProjectViewProjectNode" />
+              <item name="customer_management_application_provincial_management" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="customer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="customer_management_application_provincial_management" type="b2602c69:ProjectViewProjectNode" />
+              <item name="customer_management_application_provincial_management" type="462c0819:PsiDirectoryNode" />
+              <item name="routes" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner scope="XML" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9a18483f-dfd8-49dd-80d2-becebdfd73b4" name="Default Changelist" comment="" />
+      <created>1562078403174</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562078403174</updated>
+      <workItem from="1562078406840" duration="5288000" />
+      <workItem from="1562107907353" duration="238000" />
+      <workItem from="1562114837144" duration="8431000" />
+      <workItem from="1562145081118" duration="1026000" />
+      <workItem from="1562146243812" duration="6333000" />
+      <workItem from="1562163380459" duration="2831000" />
+      <workItem from="1562202040170" duration="10183000" />
+      <workItem from="1562920471160" duration="65000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="34395000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3446602" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32876712" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.2596154" />
+      <window_info anchor="bottom" id="Thumbnails" order="12" weight="0.32876712" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32875606" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.26027396" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/resources/views/customer/list.blade.php</url>
+          <line>42</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/database/migrations/2019_07_02_144745_add_cities_to_customers_table.php" />
+    <entry file="file://$PROJECT_DIR$/database/migrations/2019_07_02_150633_create_customers_table.php" />
+    <entry file="file://$PROJECT_DIR$/database/migrations/2019_07_02_150924_add_cities_to_customers_table.php" />
+    <entry file="file://$PROJECT_DIR$/database/migrations/2019_07_02_144300_create_cities_table.php" />
+    <entry file="file://$PROJECT_DIR$/database/migrations/2019_07_02_151521_create_customers_table.php" />
+    <entry file="file://$PROJECT_DIR$/database/migrations/2019_07_02_151925_add_cities_to_customers_table.php" />
+    <entry file="file://$PROJECT_DIR$/database/migrations/2019_07_02_152924_create_cities_table.php" />
+    <entry file="file://$PROJECT_DIR$/database/migrations/2019_07_02_153045_create_customers_table.php" />
+    <entry file="file://$PROJECT_DIR$/database/migrations/2019_07_02_153420_create_tasks_table.php" />
+    <entry file="file://$PROJECT_DIR$/database/migrations/2019_07_02_153501_create_cities_table.php" />
+    <entry file="file://$PROJECT_DIR$/database/migrations/2019_07_02_153453_create_customers_table.php" />
+    <entry file="file://$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2014_10_12_100000_create_password_resets_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="25" column="19" lean-forward="true" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2019_07_02_154148_create_cities_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="20" column="11" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2019_07_02_154037_create_customers_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="20" column="6" lean-forward="true" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2019_07_02_154353_add_cities_to_customers_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/welcome.blade.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/cities/list.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="39" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/CityController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="38" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+          <folding>
+            <element signature="e#40#53#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/cities/delete.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="71" selection-start-line="8" selection-start-column="71" selection-end-line="8" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Requests/EditCityRequest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="10" selection-start-line="34" selection-start-column="10" selection-end-line="34" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/cities/edit.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="30" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2019_07_03_141828_add_imge_to_customers_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="16" column="48" selection-start-line="16" selection-start-column="48" selection-end-line="16" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/seeds/DatabaseSeeder.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/seeds/CustomersTableSeeder.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="35" column="21" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
+          <folding>
+            <element signature="e#7#24#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/seeds/CitiesTableSeeder.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+          <folding>
+            <element signature="e#7#20#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Requests/CreateCityRequest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="50" selection-start-line="34" selection-start-column="50" selection-end-line="34" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/cities/create.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="6" selection-start-line="3" selection-end-line="23" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Requests/CustomerCreateRequest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="35" column="5" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Citie.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/City.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/home.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/customer/create.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="13" lean-forward="true" selection-start-line="3" selection-end-line="53" />
+          <folding>
+            <element signature="e#82#2555#0#HTML" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/customer/search.blade.php" />
+    <entry file="file://$PROJECT_DIR$/resources/views/customer/list.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1050">
+          <caret line="70" column="57" lean-forward="true" selection-start-line="70" selection-start-column="57" selection-end-line="70" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/web.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="34" column="77" selection-start-line="34" selection-start-column="61" selection-end-line="34" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/CustomerController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1245">
+          <caret line="86" column="29" selection-start-line="86" selection-start-column="29" selection-end-line="86" selection-end-column="29" />
+          <folding>
+            <element signature="e#40#53#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Customer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/customer/edit.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="46" column="26" selection-start-line="46" selection-start-column="26" selection-end-line="46" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/customer/show.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="69" selection-start-line="36" selection-start-column="69" selection-end-line="36" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/cities/show.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
